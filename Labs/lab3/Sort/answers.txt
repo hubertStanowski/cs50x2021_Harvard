@@ -1,0 +1,37 @@
+sort1 uses: bubble sort
+
+How do you know?: sorts the sorted list quicker out of two that are left (after excluding the merge sort)
+
+sort2 uses: merge sort
+
+How do you know?: quickest out of all that were given
+
+sort3 uses: selection sort
+
+How do you know?: similarly long time on both shuffled and sorted lists
+
+
+sort1 reversed50000
+real    0m11.623s
+user    0m4.551s
+sys     0m0.064s
+
+sort1 sorted50000
+real    0m3.311s
+user    0m0.013s
+sys     0m0.083s
+
+sort2 reversed50000
+real    0m3.297s
+user    0m0.018s
+sys     0m0.078s
+
+sort3 reversed50000
+real    0m7.349s
+user    0m2.437s
+sys     0m0.088s
+
+sort2 sorted50000
+real    0m8.314s
+user    0m2.414s
+sys     0m0.064s
