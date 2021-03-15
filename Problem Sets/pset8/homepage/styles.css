@@ -1,0 +1,98 @@
+body {
+    background-color: #55ffff;
+    color: #000000 ;
+}
+
+.title {
+    background-color: #000000;
+    color: #55ffff;
+    margin-bottom: 2rem;
+    padding: 2rem 1rem;
+    text-align: center;
+
+}
+
+a {
+    text-decoration: none;
+    font-size: 22px;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+#introduction_link{
+    color: #ee0000;
+}
+
+#hobbies_link{
+    color: #00aa00;
+}
+
+#quiz_lin{
+    color: #0000ee;
+}
+
+.data{
+    font-size: 20px;
+}
+
+.footer{
+    position: fixed;
+    text-align: left;
+    bottom: 100px;
+    width: 100%;
+}
+
+.next{
+    color: #123456;
+}
+
+.back_main{
+    color: #654321;
+}
+
+.hobbies{
+    font-size: 20px;
+    color: #696969;
+}
+
+#green{
+    background-color: #00ff00;
+}
+
+#red{
+    background-color: #ff0000;
+}
+
+#blue{
+    background-color: #0000ff;
+}
+
+#yellow{
+    background-color: #ffff00;
+}
+
+.question1{
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+}
+
+#response1{
+    color: #0000ff;
+    text-align: center;
+    font-size: 22px;
+}
+
+.question2{
+    text-align: center;
+}
+
+#response2{
+    color:#0000ff;
+    text-align: center;
+    font-size: 22px;
+}
